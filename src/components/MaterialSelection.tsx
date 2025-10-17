@@ -190,3 +190,7 @@ export default function MaterialSelection({ selectedMaterial, onSelectMaterial }
 // Development update - Week 13
 // Date: 2025-10-10 11:59
 // Saree customization feature improvements
+
+// Development update - Week 14
+// Date: 2025-10-17 09:13
+// Saree customization feature improvements
